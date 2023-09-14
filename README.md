@@ -1,6 +1,4 @@
 # Workflow-Wizards
-<<<<<<< HEAD
-=======
 
 ## Project Description
 The Order Management System is a robust and efficient software solution designed to streamline and automate the process of managing orders for businesses of all sizes. This system offers a comprehensive set of features and tools that enable businesses to efficiently process, track, and fulfill customer orders with ease.
